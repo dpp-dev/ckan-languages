@@ -4038,7 +4038,7 @@ msgstr "Change details"
 
 #: ckan/templates/user/edit_user_form.html:10
 msgid "Full name"
-msgstr "Full name"
+msgstr "Display name"
 
 #: ckan/templates/user/edit_user_form.html:10
 msgid "eg. Joe Bloggs"
@@ -4182,7 +4182,7 @@ msgstr "username"
 
 #: ckan/templates/user/new_user_form.html:6
 msgid "Full Name"
-msgstr "Full Name"
+msgstr "Display Name"
 
 #: ckan/templates/user/new_user_form.html:17
 msgid "Create Account"
